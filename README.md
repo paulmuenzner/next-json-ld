@@ -6,7 +6,6 @@
 [![Issues][issues-shield]][issues-url]
 [![Next][next-shield]](https://nextjs.org/)
 [![GNU License][license-shield]][license-url]
-![GitHub repo size](https://img.shields.io/github/repo-size/paulmuenzner/next-json-ld) 
 [![paulmuenzner github][github-shield]][github-url] 
 [![Contributors][contributors-shield]][contributors-url]
 
@@ -131,9 +130,9 @@ Use this space to list resources you find helpful and would like to give credit 
 [contributors-url]: https://github.com/paulmuenzner/next-json-ld/graphs/contributors
 [issues-shield]: https://img.shields.io/github/issues/paulmuenzner/next-json-ld.svg
 [issues-url]: https://github.com/paulmuenzner/next-json-ld/issues
-[license-shield]: https://img.shields.io/badge/MIT.svg?colorB=FF5733
+[license-shield]: https://img.shields.io/badge/License-MIT-yellow.svg
 [license-url]: https://github.com/paulmuenzner/next-json-ld/blob/master/LICENSE.txt
-[next-shield]: https://img.shields.io/badge/Next-18.1.0-61DAFB?logo=next&logoColor=white
+[next-shield]: https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white
 <!-- [website-shield]: https://img.shields.io/badge/www-paulmuenzner.com-blue
 [website-url]: https://paulmuenzner.com -->
 
